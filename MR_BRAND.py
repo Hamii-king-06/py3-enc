@@ -16,6 +16,6 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    from EXTRACT import hk
+    from MR_HAMII32 import hk
 
     hk()
